@@ -2,13 +2,9 @@
 
 **`Engenheiro de Software (Java) `**
 
-Me chamo "[Nicolas Sinegalia Nascimento](https://www.linkedin.com/in/nicolassinegalia/)", tenho 26 anos e sou de São Paulo. Sou formado em Engenharia da Computação (dez/2022) e, desde 2020, venho me aprofundando em Dados e Desenvolvimento Back End, com cursos complementares. Atualmente, estou cursando Pós-MBA em Engenharia de Software, com o objetivo de migrar para a área de desenvolvimento, mais especificamente como Engenheiro de Software Java.
-
-Possuo 4 anos de experiência em Análise de Dados com foco em SQL Server, atuando em empresas de tecnologia voltadas ao setor de seguros e também em consultorias de marketing, utilizando dados para gerar insights estratégicos, recomendações inteligentes e suporte à tomada de decisão nas áreas de negócio.
+Me chamo "[Nicolas Sinegalia Nascimento](https://www.linkedin.com/in/nicolassinegalia/)", tenho 26 anos e sou de São Paulo. Sou formado em Engenharia da Computação (dez/2022) e, desde 2020, venho me aprofundando em Dados e Desenvolvimento Back End, com cursos complementares. Possuo 4 anos de experiência em Análise de Dados com foco em SQL Server e atualmente, estou cursando Pós-MBA em Engenharia de Software na Impacta, com o objetivo de migrar para a área de desenvolvimento, mais especificamente como Engenheiro de Software Java.
 
 Tenho estudado SQL, Java, Springboot, APIRest, Hibernate, entre outros, todos os dias com foco em desafios práticos, utilizando plataformas como o LeetCode, livros técnicos, e experiências com projetos pontuais para ganhar fluência, além de aprimorar meu raciocínio lógico e estrutura de código.
-
-Sou uma pessoa curiosa, dedicada e proativa. Gosto de aprender, compartilhar conhecimento e acredito fortemente no poder do trabalho em equipe para gerar soluções de impacto.
 
 ### 🤖 Linguagens e Tecnologias
 
