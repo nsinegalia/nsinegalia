@@ -1,6 +1,6 @@
 # 👨‍💼 Nicolas Sinegalia Nascimento
 
-**`Engenheiro de Software (Java) `**
+**`Engenheiro de Software (Java) `** **`Analista de Dados (SQL) `**
 
 Me chamo "[Nicolas Sinegalia Nascimento](https://www.linkedin.com/in/nicolassinegalia/)", tenho 26 anos e sou de São Paulo. Sou formado em Engenharia da Computação (dez/2022) e, desde 2020, venho me aprofundando em Dados e Desenvolvimento Back End, com cursos complementares. Possuo 4 anos de experiência em Análise de Dados com foco em SQL Server e atualmente, estou cursando Pós-MBA em Engenharia de Software na Impacta, com o objetivo de migrar para a área de desenvolvimento, mais especificamente como Engenheiro de Software Java.
 
